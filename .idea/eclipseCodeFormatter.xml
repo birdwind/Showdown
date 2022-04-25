@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1579152942359" />
+        <option name="importOrder" value="com;org;javax;java;#;" />
+        <option name="name" value="Java" />
+        <option name="optimizeImports" value="false" />
+        <option name="pathToConfigFileJava" value="D:\Data\Project\IntellJ_code_style/snbdc-eclipse-java-code-style.xml" />
+        <option name="selectedJavaProfile" value="google" />
+      </Settings>
+    </option>
+  </component>
+</project>
